@@ -1,0 +1,20 @@
+#section1 {
+  display: none;
+}
+
+#section2 {
+  display: none;
+}
+
+.clickme {
+  color: blue;
+  cursor: pointer;
+}
+
+.clickme:hover {
+  text-decoration: underline;
+}
+
+img {
+  max-width: 500px;
+}
