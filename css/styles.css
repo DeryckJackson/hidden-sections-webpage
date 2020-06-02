@@ -6,6 +6,10 @@
   display: none;
 }
 
+#section3 {
+  display: none;
+}
+
 .clickme {
   color: blue;
   cursor: pointer;

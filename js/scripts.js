@@ -5,4 +5,7 @@ $(document).ready(function() {
   $("#clickme2").click(function() {
     $("#section2").slideToggle();
   });
+  $("#clickme3").click(function() {
+    $("#section3").toggle();
+  });
 });
